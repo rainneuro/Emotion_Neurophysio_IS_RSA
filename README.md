@@ -1,6 +1,6 @@
 # Negative-Emotion-Neurophysiogical-Sociability <img src="https://raw.githubusercontent.com/rainneuro/Emotion_Neurophysio_IS-RSA/main/demo.png" align="right" width="490px">
 
-[![GitHub repo size](https://img.shields.io/github/languages/code-size/rainneuro/Emotion_Neurophysio_IS-RSA?color=brightgreen&label=repo%20size&logo=github)](https://github.com/rainneuro/Emotion_Neurophysio_IS-RSA)
+[![GitHub repo size](https://img.shields.io/github/languages/code-size/rainneuro/Emotion_Neurophysio_IS_RSA?color=brightgreen&label=repo%20size&logo=github)](https://github.com/rainneuro/Emotion_Neurophysio_IS_RSA)
 [![Twitter URL](https://img.shields.io/twitter/url?label=%40ANDlab3&style=social&url=https%3A%2F%2Ftwitter.com%2Flizhn7)](https://twitter.com/ANDlab3)
 [![Twitter URL](https://img.shields.io/twitter/url?label=%40ruien_wang&style=social&url=https%3A%2F%2Ftwitter.com%2Flizhn7)](https://twitter.com/ruien_wang)
 
